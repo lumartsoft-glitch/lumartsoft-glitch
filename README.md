@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lumartsoft-glitch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+ [![GitHub Stats](https://github-readme-stats-git-main-lumartsoft-glitch.vercel.app/api?username=lumartsoft-glitch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,prs)](https://github.com/lumartsoft-glitch)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lumartsoft-glitch&theme=tokyonight)
   
