@@ -19,7 +19,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=lumartsoft-glitch&theme=tokyonight&locale=es)](https://git.io/streak-stats)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=lumartsoft-glitch&theme=default&locale=es)
   
 </div>
 
