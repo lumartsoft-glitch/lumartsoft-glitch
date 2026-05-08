@@ -58,19 +58,13 @@
 
 ## 💻 Lenguajes de Programación
 
-<div align="center">
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumartsoft-glitch&layout=compact&theme=tokyonight&langs_count=8)
-  
-</div>
-
-| Lenguaje | Nivel | Experiencia |
-|----------|-------|-------------|
-| **JavaScript** | 🟩🟩🟩🟩🟩 Avanzado | +2 años |
-| **Python** | 🟩🟩🟩🟩🟨 Intermedio-Avanzado | +1.5 años |
-| **HTML/CSS** | 🟩🟩🟩🟩🟩 Avanzado | +2 años |
-| **SQL** | 🟩🟩🟩🟩🟩 Avanzado | +10 años |
-| **React** | 🟩🟩🟨🟨🟨 Básico | +1 años |
+| Lenguaje | Nivel | Experiencia | Uso |
+|----------|-------|-------------|-----|
+| **JavaScript** | ⭐⭐⭐⭐⭐ | +2 años | Frontend/Backend |
+| **HTML/CSS** | ⭐⭐⭐⭐⭐ | +2 años | Maquetación Web |
+| **SQL** | ⭐⭐⭐⭐⭐ | +10 años | Bases de Datos |
+| **Python** | ⭐⭐⭐⭐☆ | +1.5 años | Scripting/Data |
+| **React** | ⭐⭐⭐☆☆ | +1 año | SPA/Frontend |
 
 ---
 
