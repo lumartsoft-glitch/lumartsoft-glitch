@@ -19,9 +19,9 @@
 
 <div align="center">
   
- [![GitHub Stats](https://github-readme-stats-git-main-lumartsoft-glitch.vercel.app/api?username=lumartsoft-glitch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,prs)](https://github.com/lumartsoft-glitch)
+  [![GitHub Stats](https://github-readme-stats-git-main-lumartsoft-glitch.vercel.app/api?username=lumartsoft-glitch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs,prs)](https://github.com/lumartsoft-glitch)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lumartsoft-glitch&theme=tokyonight)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=lumartsoft-glitch&theme=tokyonight&locale=es)](https://git.io/streak-stats)
   
 </div>
 
